@@ -419,3 +419,4 @@
 2026-02-13 19:04:10 - added progress comment
 2026-02-13 19:04:17 - improved structure
 2026-02-13 21:37:43 - refined explanation
+2026-02-13 21:37:50 - minor documentation fix
