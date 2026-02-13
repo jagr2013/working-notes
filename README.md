@@ -57,3 +57,4 @@
 2026-02-13 18:52:19 - minor documentation fix
 2026-02-13 18:52:27 - added progress comment
 2026-02-13 18:52:34 - improved note clarity
+2026-02-13 18:52:42 - refined instruction
