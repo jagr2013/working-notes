@@ -106,3 +106,4 @@
 2026-02-13 18:58:23 - clarified task step
 2026-02-13 18:58:30 - minor documentation fix
 2026-02-13 18:58:37 - updated checklist
+2026-02-13 18:58:45 - refined explanation
