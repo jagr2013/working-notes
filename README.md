@@ -81,3 +81,4 @@
 2026-02-13 18:55:17 - improved note clarity
 2026-02-13 18:55:25 - improved structure
 2026-02-13 18:55:33 - added progress comment
+2026-02-13 18:55:40 - refined instruction
