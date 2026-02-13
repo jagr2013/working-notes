@@ -390,3 +390,4 @@
 2026-02-13 19:00:35 - updated process step
 2026-02-13 19:00:43 - updated checklist
 2026-02-13 19:00:50 - improved structure
+2026-02-13 19:00:58 - refined instruction
