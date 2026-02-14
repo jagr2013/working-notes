@@ -268,3 +268,4 @@
 2026-02-14 13:08:12 - improved structure
 2026-02-14 13:08:20 - added progress comment
 2026-02-14 21:16:49 - updated checklist
+2026-02-14 21:17:43 - refined instruction
