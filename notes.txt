@@ -113,3 +113,4 @@
 2026-02-17 13:09:02 - updated checklist
 2026-02-17 13:09:20 - updated checklist
 2026-02-17 13:09:47 - updated checklist
+2026-02-17 13:10:02 - refined instruction
