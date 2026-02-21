@@ -470,3 +470,4 @@
 2026-02-20 10:18:52 - updated checklist
 2026-02-20 10:20:05 - updated checklist
 2026-02-21 15:57:10 - updated checklist
+2026-02-21 15:57:47 - refined instruction
